@@ -1,0 +1,111 @@
+body {
+    background-color: #F2F2F2;
+}
+
+
+h2 {
+    position: absolute;
+    width: 252px;
+    height: 29px;
+    left: 41px;
+    top: 130px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+}
+
+h3 {
+    position: absolute;
+    width: 94px;
+    height: 40px;
+    left: 141px;
+    top: 64px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #000000;
+}
+
+h5 {
+    position: absolute;
+    width: 150px;
+    height: 37px;
+    left: 41px;
+    top: 183px;
+
+    font-family: Rokkitt;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 24px;
+}
+
+h6 {
+    position: absolute;
+    width: 150px;
+    height: 37px;
+    left: 41px;
+    top: 220px;
+
+    font-family: Rokkitt;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+h1 {
+    position: absolute;
+    width: 203px;
+    height: 32px;
+    left: 41px;
+    top: 257px;
+
+    font-family: Rokkitt;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.kedua {
+    position: absolute;
+    width: 252px;
+    height: 29px;
+    left: 41px;
+    top: 347px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+}
+
+.subkedua {
+    position: absolute;
+    width: 252px;
+    height: 32px;
+    left: 41px;
+    top: 393px;
+
+    font-family: Rokkitt;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 24px;
+
+    color: #000000;
+}
