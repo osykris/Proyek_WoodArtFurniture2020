@@ -1,0 +1,130 @@
+body {
+    background-color: #F2F2F2;
+}
+
+.btn {
+    position: absolute;
+    width: 314px;
+    height: 45px;
+    left: 34px;
+    top: 790px;
+    background: #2B354F;
+    border-radius: 30px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+
+    /* identical to box height */
+
+    color: #F6F6F9;
+}
+
+label {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #9A9A9D;
+}
+
+.form-control {
+    background-color: #C4C4C4;
+}
+
+a {
+    position: absolute;
+    width: 79px;
+    height: 26px;
+    left: 232px;
+    top: 250px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+
+    /* identical to box height */
+
+    color: #F6F6F9;
+}
+
+.login {
+    position: absolute;
+    width: 79px;
+    height: 26px;
+    left: 69px;
+    top: 250px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+
+    /* identical to box height */
+
+    color: #F6F6F9;
+}
+
+hr {
+    position: absolute;
+    width: 134px;
+    height: 3px;
+    left: 210px;
+    top: 277px;
+
+    background: #2B354F;
+    box-shadow: 0px 4px 4px rgba(196, 63, 21, 0.1);
+    border-radius: 40px;
+}
+
+.loginhr {
+    position: absolute;
+    width: 134px;
+    height: 3px;
+    left: 40px;
+    top: 277px;
+
+    background: #2B354F;
+    box-shadow: 0px 4px 4px rgba(196, 63, 21, 0.1);
+    border-radius: 40px;
+}
+
+.btnlogin {
+    position: absolute;
+    width: 314px;
+    height: 45px;
+    left: 40px;
+    top: 647px;
+
+
+
+    background: #2B354F;
+    border-radius: 30px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+
+    /* identical to box height */
+
+    color: #F6F6F9;
+}
+
+.forgot {
+    position: absolute;
+    width: 149px;
+    height: 20px;
+    left: 216px;
+    top: 500px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #DAA520;
+
+
+}

@@ -1,0 +1,15 @@
+body {
+    background-image: url('asset/load.png');
+    color: #fff;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.btn{
+    background: transparent;
+    position: absolute;
+    left: 38%;
+    top: 60%;
+    color: #2B354F;
+}
