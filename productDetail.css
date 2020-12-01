@@ -1,0 +1,88 @@
+body {
+    background-color: #F2F2F2;
+}
+
+.btn {
+    position: absolute;
+    width: 314px;
+    height: 50px;
+    left: 30px;
+    top: 695px;
+
+    background: #2B354F;
+    border-radius: 30px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+
+    color: #F6F6F9;
+}
+
+h1 {
+    position: absolute;
+    width: 220px;
+    height: 33px;
+    left: 80px;
+    top: 360px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 101.34%;
+
+    /* or 24px */
+    text-align: center;
+
+    color: #000000;
+}
+
+h2 {
+    position: absolute;
+    width: 121px;
+    height: 18px;
+    left: 126px;
+    top: 410px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 101.34%;
+
+    /* or 18px */
+    text-align: center;
+
+    color: #AD8460;
+}
+
+h3 {
+    position: absolute;
+    width: 118px;
+    height: 23px;
+    left: 50px;
+    top: 480px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 101.34%;
+
+    /* or 20px */
+
+    color: #000000;
+
+}
+
+h4 {
+    position: absolute;
+    width: 298px;
+    height: 133px;
+    left: 50px;
+    top: 515px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 101.34%;
+
+    /* or 16px */
+
+    color: rgba(67, 67, 67, 0.8);
+}
