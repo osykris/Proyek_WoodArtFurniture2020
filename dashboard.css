@@ -1,0 +1,48 @@
+body {
+    background-color: #AD8460;
+}
+
+.prof {
+    position: absolute;
+    width: 52.22px;
+    height: 13.55px;
+    left: 45.13px;
+    top: 18.41%;
+}
+
+.order {
+    position: absolute;
+    left: 45.13px;
+    top: 100px;
+}
+
+.offer {
+    position: absolute;
+    width: 139.21px;
+    height: 17.63px;
+    left: 45.13px;
+    top: 190.86px;
+}
+
+.history {
+    position: absolute;
+    left: 45.13px;
+    top: 285px;
+}
+
+.security {
+    position: absolute;
+    width: 70.2px;
+    height: 17.92px;
+    left: 45.13px;
+    top: 380.57px;
+
+}
+
+.out {
+    position: absolute;
+    width: 73.72px;
+    height: 18.05px;
+    left: 7px;
+    top: 600.57px;
+}
