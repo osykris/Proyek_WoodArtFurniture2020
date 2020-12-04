@@ -1,0 +1,156 @@
+body {
+    background-color: #F2F2F2;
+}
+
+.personil {
+    position: absolute;
+    width: 142px;
+    height: 21px;
+    left: 50px;
+    top: 190px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+
+
+}
+
+.change {
+    position: absolute;
+    width: 53px;
+    height: 18px;
+    left: 275px;
+    top: 190px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* identical to box height */
+
+    color: #AD8460;
+}
+
+.profile {
+    position: absolute;
+    width: 390px;
+    height: 267px;
+    top: 200px;
+}
+
+.orders {
+
+    position: absolute;
+    width: 390px;
+    height: 135px;
+    top: 400px;
+
+}
+
+.previews {
+    position: absolute;
+    width: 390px;
+    height: 135px;
+    top: 470px;
+}
+
+.faq {
+    position: absolute;
+    width: 390px;
+    height: 135px;
+    top: 540px;
+}
+
+.help {
+    position: absolute;
+    width: 390px;
+    height: 135px;
+    top: 610px;
+}
+
+.btn {
+    position: absolute;
+    width: 314px;
+    height: 50px;
+    left: 30px;
+    top: 725px;
+
+    background: #2B354F;
+    border-radius: 30px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+
+    text-align: center;
+
+    color: #F6F6F9;
+}
+
+.name {
+    position: absolute;
+    width: 220px;
+    height: 33px;
+    left: 132px;
+    top: 243px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 101.34%;
+
+    /* or 24px */
+    text-align: center;
+
+    color: #000000;
+}
+
+.email {
+    position: absolute;
+    width: 219px;
+    height: 20px;
+    left: 157px;
+    top: 278px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #9A9A9D;
+}
+
+.phone {
+    position: absolute;
+    width: 219px;
+    height: 20px;
+    left: 157px;
+    top: 309px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #9A9A9D;
+}
+
+.alamat {
+    position: absolute;
+    width: 166px;
+    height: 40px;
+    left: 161px;
+    top: 340px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #9A9A9D;
+}
