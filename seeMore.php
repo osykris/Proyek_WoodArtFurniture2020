@@ -54,7 +54,7 @@
     font-size: 15px;
     color: #AD8460;">See more</a>
 
-    <h1 style="position: absolute;
+    <a style="position: absolute;
     left: 101px;
     top: 348px;
     font-style: normal;
@@ -62,17 +62,7 @@
     font-size: 17px;
     line-height: 20px;
 
-    color: #AD8460;">Sofa</h1>
-
-    <hr style="position: absolute;
-    width: 87px;
-    height: 3px;
-    left: 75px;
-    top: 362px;
-
-    background: #AD8460;
-    box-shadow: 0px 4px 4px rgba(43, 53, 79, 0.1);
-    border-radius: 40px;">
+    color: #9A9A9D;" href="product.php">Sofa</a>
 
     <a style="
     position: absolute;
@@ -107,7 +97,7 @@
     text-align: center;
     color: #9A9A9D;" href="desk.php">Desk</a>
 
-    <a href="productDetail.php"><img src="asset/sofa1.png" alt="Image" width="250px" style="position: absolute;
+    <a href="#"><img src="asset/desk.png" alt="Image" width="250px" style="position: absolute;
     left: 30px;
     top: 400px;" /></a>
 
@@ -122,7 +112,7 @@
     font-size: 18px;
     text-align: center;
 
-    color: #000000;">Anabella Corner</h1>
+    color: #000000;">Cute Office Decor</h1>
 
     <h1 style="position: absolute;
     width: 121px;
@@ -133,9 +123,9 @@
     font-weight: normal;
     font-size: 16px;
     text-align: center;
-    color: #AD8460;">Rp. 11.372.000</h1>
+    color: #AD8460;">Rp. 20.001.000</h1>
 
-    <a href="#"><img src="asset/Sofa2.png" alt="Image" width="225px" style="position: absolute;
+    <a href="#"><img src="asset/Sofa2.png" alt="Image" width="250px" style="position: absolute;
     left: 230px;
     top: 400px;" /></a>
 
@@ -164,34 +154,34 @@
 
     color: #AD8460;">Rp. 12.250.000</h1>
 
-    <a href="#"><img src="asset/sofa3.png" alt="Image" width="225px" style="position: absolute;
+    <a href="#"><img src="asset/kitchen.png" alt="Image" width="250px" style="position: absolute;
     left: 430px;
     top: 400px;" /></a>
 
-    <h1 style="
-    position: absolute;
+    <h1 style="position: absolute;
     width: 130px;
-    height: 33px;
-    left: 480px;
+    height: 29px;
+    left: 500px;
     top: 568px;
+
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
     text-align: center;
 
-    color: #000000;">Good Sof</h1>
+    color: #000000;">Daily Kitchen Holi</h1>
 
     <h1 style="position: absolute;
     width: 121px;
     height: 18px;
-    left: 480px;
+    left: 500px;
     top: 620px;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     text-align: center;
+    color: #AD8460;">Rp. 10.181.000</h1>
 
-    color: #AD8460;">Rp. 12.250.000</h1>
 
     <a href="product.php"><img src="asset/iconhome.png" alt="Image" width="80px" style="position: absolute;
     left: 20px;

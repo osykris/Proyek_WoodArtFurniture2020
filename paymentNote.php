@@ -9,63 +9,17 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
-    <link rel="stylesheet" type="text/css" href="checkout.css">
+    <link rel="stylesheet" type="text/css" href="payment.css">
 
     <title>Wood Art Furniture</title>
 </head>
 
-<body>
 
-    <a href="cart.php"><img src="asset/button_back.png" alt="Image" width="100px" style="position: absolute;
-    width: 24px;
-    height: 24px;
-    left: 41px;
-    top: 63px;" /></a>
-
-    <h3>Checkout</h3><br><br>
-    <h1 class="dev">Delivery</h1>
-    <h1 class="address">Address details</h1>
-    <a class="change" href="#">change</a>
-    <img src="asset/delivery.png" class="background" alt="...">
-    <img src="asset/delivery.png" class="subbackground" alt="...">
-    <h1 class="username">Novend Osyana </h1>
-    <hr style="position: absolute;
-    width: 180px;
-    height: 1px;
-    left: 54px;
-    top: 284px;
-
-    background: #C4C4C4;">
-    <h1 class="detailaddress">Jl. Kenangan No. 101 RR Malang Jawa Timur</h1>
-    <hr style="position: absolute;
-    width: 180px;
-    height: 1px;
-    left: 59px;
-    top: 343px;
-
-    background: #C4C4C4;">
-    <h1 class="phone">+6281355766123</h1>
-    <h1 class="method">Delivery method.</h1>
-
-    <form method="POST" action="payment.php">
-        <div class="formya">
-            <input  type="radio" name="option1" value="Door delivery" >  Door delivery <BR><BR><BR>
-            <input type="radio" name="option2" id="option2" value="Pickup"> Pickup <BR><BR>
-        </div>
-            <input class="btn" type="submit" name="done" value="Proceed to payment">
-    </form>
-
-    <hr style="position: absolute;
-    width: 232px;
-    height: 0px;
-    left: 84px;
-    top: 553px;
-
-    opacity: 0.3;
-    border: 0.5px solid #000000;">
-
-    <h1 class="totalname">Total</h1>
-    <h1 class="total">Rp. 11.372.000</h1>
+<body style=" mix-blend-mode: overlay;
+    border-radius: 20px;
+    background-image: url('asset/backshad.png');
+    background-size: cover;
+    background-repeat: no-repeat;" width="100px">
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

@@ -1,0 +1,8 @@
+background {
+    mix-blend-mode: overlay;
+    border-radius: 20px;
+    background-image: url('asset/backshad.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}

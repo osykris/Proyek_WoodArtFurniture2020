@@ -23,36 +23,44 @@
     top: 63px;" /></a>
 
     <h3>Checkout</h3><br><br>
-    <h1 class="dev">Delivery</h1>
-    <h1 class="address">Address details</h1>
-    <a class="change" href="#">change</a>
-    <img src="asset/delivery.png" class="background" alt="...">
+    <h1 class="dev">Payment</h1>
+    <h1 style="position: absolute;
+    left: 53px;
+    top: 210px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #000000;">Payment method</h1>
+
+    <form method="POST" action="#">
+        <div style="position: absolute;
+        left: 15%;
+        top: 35%;">
+            <input type="radio" name="option1" value="Card">              Card <BR><BR><BR>
+            <input type="radio" name="option2" id="option2" value="Bank account">              Bank account <BR><BR>
+        </div>
+    </form>
+    <img src="asset/delivery.png" style=" position: absolute;
+    width: 315px;
+    height: 156px;
+    left: 30px;
+    top: 250px;
+    background: #FFFFFF;
+    
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.03);
+    border-radius: 20px;" alt="...">
     <img src="asset/delivery.png" class="subbackground" alt="...">
-    <h1 class="username">Novend Osyana </h1>
-    <hr style="position: absolute;
-    width: 180px;
-    height: 1px;
-    left: 54px;
-    top: 284px;
 
-    background: #C4C4C4;">
-    <h1 class="detailaddress">Jl. Kenangan No. 101 RR Malang Jawa Timur</h1>
-    <hr style="position: absolute;
-    width: 180px;
-    height: 1px;
-    left: 59px;
-    top: 343px;
-
-    background: #C4C4C4;">
-    <h1 class="phone">+6281355766123</h1>
     <h1 class="method">Delivery method.</h1>
 
-    <form method="POST" action="payment.php">
+    <form method="POST" action="paymentNote.php">
         <div class="formya">
-            <input  type="radio" name="option1" value="Door delivery" >  Door delivery <BR><BR><BR>
+            <input type="radio" name="option1" value="Door delivery"> Door delivery <BR><BR><BR>
             <input type="radio" name="option2" id="option2" value="Pickup"> Pickup <BR><BR>
         </div>
-            <input class="btn" type="submit" name="done" value="Proceed to payment">
+        <input class="btn" type="submit" name="done" value="Proceed to payment">
     </form>
 
     <hr style="position: absolute;
