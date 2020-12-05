@@ -20,7 +20,7 @@
     <a class="login" href="login.php">Log in</a>
     <a href="register.php">Sign up</a>
     <hr class="loginhr">
-    <form>
+    <form method="post" action="product.php">
         <div class="form-group" >
             <label for="email1"  class="col-md-2 col-form-label text-md-right">Email Address</label>
             <div class="col-md-8">

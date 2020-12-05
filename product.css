@@ -1,0 +1,26 @@
+body {
+    background-color: #F2F2F2;
+}
+
+.cart {
+    position: absolute;
+    left: 289px;
+    top: 57px;
+}
+
+
+
+form:focus {
+    border-style: none;
+}
+
+.search {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 57px;
+    top: 231px;
+
+    border: 2px;
+}
+

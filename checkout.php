@@ -16,7 +16,7 @@
 
 <body>
 
-    <a href="getStarted.php"><img src="asset/button_back.png" alt="Image" width="100px" style="position: absolute;
+    <a href="cart.php"><img src="asset/button_back.png" alt="Image" width="100px" style="position: absolute;
     width: 24px;
     height: 24px;
     left: 41px;

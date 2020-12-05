@@ -16,7 +16,7 @@
 
 <body>
     
-    <a href="getStarted.php"><img src="asset/button_back.png" alt="Image" width="100px" style="position: absolute;
+    <a href="product.php"><img src="asset/button_back.png" alt="Image" width="100px" style="position: absolute;
     width: 24px;
     height: 24px;
     left: 41px;
@@ -28,7 +28,7 @@
     <img src="asset/gambar.png" class="gambar" alt="...">
     <h2>Anabella Corner</h2>
     <h1>Rp. 11.372.000</h1>
-    <a class="btn"href="#">
+    <a class="btn"href="checkout.php">
         Complete order
     </a>
     <!-- Optional JavaScript; choose one of the two! -->

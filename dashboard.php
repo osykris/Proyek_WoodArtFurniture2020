@@ -16,7 +16,7 @@
 
 <body>
 
-    <a href="getStarted.php"><img src="asset/picture.png" alt="Image" width="170px" style=" position: absolute;
+    <a href="product.php"><img src="asset/picture.png" alt="Image" width="170px" style=" position: absolute;
     left: 61.35%;
     right: -42.27%;
     top: 18.41%;
