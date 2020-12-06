@@ -34,14 +34,7 @@
 
     color: #000000;">Payment method</h1>
 
-    <form method="POST" action="#">
-        <div style="position: absolute;
-        left: 15%;
-        top: 35%;">
-            <input type="radio" name="option1" value="Card">              Card <BR><BR><BR>
-            <input type="radio" name="option2" id="option2" value="Bank account">              Bank account <BR><BR>
-        </div>
-    </form>
+
     <img src="asset/delivery.png" style=" position: absolute;
     width: 315px;
     height: 156px;
@@ -62,11 +55,29 @@
         <input class="btn" type="submit" name="done" value="Proceed to payment">
     </form>
 
+    <form method="POST" action="#">
+        <div style="position: absolute;
+        left: 15%;
+        top: 35%;">
+            <input type="radio" name="option1" value="Card"> Card <BR><BR><BR>
+            <input type="radio" name="option2" id="option2" value="Bank account"> Bank account <BR><BR>
+        </div>
+    </form>
+
     <hr style="position: absolute;
     width: 232px;
     height: 0px;
     left: 84px;
     top: 553px;
+
+    opacity: 0.3;
+    border: 0.5px solid #000000;">
+
+    <hr style="position: absolute;
+    width: 232px;
+    height: 0px;
+    left: 84px;
+    top: 313px;
 
     opacity: 0.3;
     border: 0.5px solid #000000;">

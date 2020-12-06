@@ -34,7 +34,7 @@
     letter-spacing: -0.05em;
 
     color: #000000;">Our Products</h1>
-    <form method="post" action="#">
+    <form method="post" action="resultsearch.php">
         <input style="position: absolute;
     width: 314px;
     height: 60px;
