@@ -9,49 +9,48 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
-    <link rel="stylesheet" type="text/css" href="productDetail.css">
+    <link rel="stylesheet" type="text/css" href="profile.css">
 
     <title>Wood Art Furniture</title>
 </head>
 
 <body>
-    <a href="product.php"><img src="asset/button_back.png" alt="Image" width="100px" style="position: absolute;
+
+    <a href="dashboard.php"><img src="asset/button_back.png" alt="Image" width="100px" style="position: absolute;
     width: 24px;
     height: 24px;
     left: 41px;
     top: 63px;" /></a>
 
-    <a href="getStarted.php"><img src="asset/heart.png" alt="Image" width="100px" style="position: absolute;
-    width: 20px;
-    height: 20px;
-    left: 320px;
-    top: 63px;" /></a>
+    <h4 style="  position: absolute;
+    width: 261px;
+    height: 51px;
+    left: 50px;
+    top: 109px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 51px;
+    letter-spacing: -0.05em;
 
-    <a href="getStarted.php"><img src="asset/img_detail.png" alt="Image" width="100px" style="position: absolute;
-    width: 241.21px;
-    height: 241.21px;
-    left: 66px;
-    top: 94px;
-    filter: drop-shadow(0px 40px 40px rgba(0, 0, 0, 0.07));" /></a>
+    color: #000000;">My Profile</h4>
+    <h1 class="personil">Personal details</h1>
+    <a class="change" href="editProfile.php">change</a>
+    <img src="asset/profile.png" alt="Image" class="profile"/>
 
-    <a href="getStarted.php"><img src="asset/sliderDetail.png" alt="Image" width="100px" style="position: absolute;
-    width: 68px;
-    height: 8px;
-    left: 152px;
-    top: 310px;" /></a>
+    <h1 class="name">Novend Osyana </h1>
+    <h1 class="email">Osy&Novend@gmail.com</h1>
+    <h1 class="phone">+6281355766123</h1>
+    <h1 class="alamat">Jl. Jalan Santai No.99 Surabaya Jawa Timur</h1>
 
-    <h1>Anabella Corner</h1>
-
-
-    <h2>Rp. 11.372.000</h2>
-
-    <h3>Details</h3>
-
-    <h4>The Urban's simple silhouette and sink-right-in comfort make it a classic choice for the family room. Hand upholstered and assembled in the USA, it's designed with deep seats and comes with your choice of back cushion fill: 100% poly or down and feather wrapped. You won't want to get up, trust us.</h4>
-
-    <a class="btn" href="cart.php">
-        Add to cart
+    <img src="asset/orders.png" alt="Image" class="orders"/>
+    <img src="asset/pendingreviews.png" alt="Image" class="previews"/>
+    <img src="asset/faq.png" alt="Image" class="faq"/>
+    <img src="asset/help.png" alt="Image" class="help"/>
+    <a class="btn" href="#">
+        Update
     </a>
+
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

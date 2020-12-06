@@ -16,7 +16,7 @@
 
 <body>
 
-    <a href="dashboard.php"><img src="asset/button_back.png" alt="Image" width="100px" style="position: absolute;
+    <a href="profile.php"><img src="asset/button_back.png" alt="Image" width="100px" style="position: absolute;
     width: 24px;
     height: 24px;
     left: 41px;
@@ -35,21 +35,43 @@
 
     color: #000000;">My Profile</h4>
     <h1 class="personil">Personal details</h1>
-    <a class="change" href="editProfile.php">change</a>
-    <img src="asset/profile.png" alt="Image" class="profile"/>
+    <a class="change" href="#">change</a>
+    <img src="asset/profile.png" alt="Image" class="profile" />
 
-    <h1 class="name">Novend Osyana </h1>
-    <h1 class="email">Osy&Novend@gmail.com</h1>
-    <h1 class="phone">+6281355766123</h1>
-    <h1 class="alamat">Jl. Kenangan No. 101 RR Malang Jawa Timur</h1>
+    <form method="post" action="updateSuccess.php">
+        <input style=" position: absolute;
+        left: 42%;
+    top: 240px;
+    border-style: none;
+    background: white;
+    border-radius: 30px;" type="text" name="name" placeholder="enter your name">
+        <input style="position: absolute;
+        left: 42%;
+    top: 270px;
+    border-style: none;
+    background: white;
+    border-radius: 30px" type="email" name="email" placeholder="enter your email">
+        <input style="position: absolute;
+        left: 42%;
+    top: 300px;
+    border-style: none;
+    background: white;
+    border-radius: 30px" type="text" name="phone" placeholder="enter your phone">
+        <input style="position: absolute;
+        left: 42%;
+    top: 330px;
+    border-style: none;
+    background: white;
+    border-radius: 30px" type="text" name="alamat" placeholder="enter your address">
+        <button type="submit" class="btn">Update</button>
+        </a>
+    </form>
 
-    <img src="asset/orders.png" alt="Image" class="orders"/>
-    <img src="asset/pendingreviews.png" alt="Image" class="previews"/>
-    <img src="asset/faq.png" alt="Image" class="faq"/>
-    <img src="asset/help.png" alt="Image" class="help"/>
-    <a class="btn" href="#">
-        Update
-    </a>
+    <img src="asset/orders.png" alt="Image" class="orders" />
+    <img src="asset/pendingreviews.png" alt="Image" class="previews" />
+    <img src="asset/faq.png" alt="Image" class="faq" />
+    <img src="asset/help.png" alt="Image" class="help" />
+
 
     <!-- Optional JavaScript; choose one of the two! -->
 

@@ -9,49 +9,60 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
-    <link rel="stylesheet" type="text/css" href="productDetail.css">
+    <link rel="stylesheet" type="text/css" href="cart.css">
 
     <title>Wood Art Furniture</title>
 </head>
 
 <body>
+
     <a href="product.php"><img src="asset/button_back.png" alt="Image" width="100px" style="position: absolute;
     width: 24px;
     height: 24px;
     left: 41px;
     top: 63px;" /></a>
 
-    <a href="getStarted.php"><img src="asset/heart.png" alt="Image" width="100px" style="position: absolute;
-    width: 20px;
-    height: 20px;
-    left: 320px;
-    top: 63px;" /></a>
+    <h1 style="position: absolute;
+    width: 141px;
+    height: 25px;
+    left: 85px;
+    top: 59px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
 
-    <a href="getStarted.php"><img src="asset/img_detail.png" alt="Image" width="100px" style="position: absolute;
-    width: 241.21px;
-    height: 241.21px;
-    left: 66px;
-    top: 94px;
-    filter: drop-shadow(0px 40px 40px rgba(0, 0, 0, 0.07));" /></a>
+    color: #000000;
 
-    <a href="getStarted.php"><img src="asset/sliderDetail.png" alt="Image" width="100px" style="position: absolute;
-    width: 68px;
-    height: 8px;
-    left: 152px;
-    top: 310px;" /></a>
+    ">Standing Lamp</h1>
 
-    <h1>Anabella Corner</h1>
+    <img src="asset/result.png" alt="Image" width=375px" style="position: absolute;
+    left: 0px;
+    top: 129px;" />
+    <img src="asset/kananatas.png" alt="Image" width=10px" style="position: absolute;
+    width: 153px;
+    height: 54px;
+    left: 203px;
+    top: 417px;" />
 
+    <img src="asset/kiriatas.png" alt="Image" width=100px" style="position: absolute;
+    width: 134px;
+    height: 51px;
+    left: 32px;
+    top: 401px;" />
 
-    <h2>Rp. 11.372.000</h2>
+    <img src="asset/bawahkiri.png" alt="Image" width=100px" style="position: absolute;
+    width: 153px;
+    height: 53px;
+    left: 21px;
+    top: 620px;" />
 
-    <h3>Details</h3>
-
-    <h4>The Urban's simple silhouette and sink-right-in comfort make it a classic choice for the family room. Hand upholstered and assembled in the USA, it's designed with deep seats and comes with your choice of back cushion fill: 100% poly or down and feather wrapped. You won't want to get up, trust us.</h4>
-
-    <a class="btn" href="cart.php">
-        Add to cart
-    </a>
+    <img src="asset/bawahkanan.png" alt="Image" width=100px" style="position: absolute;
+    width: 153px;
+    height: 73px;
+    left: 200px;
+    top: 666px;" />
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

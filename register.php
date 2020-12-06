@@ -20,7 +20,7 @@
     <a class="login" href="login.php">Log in</a>
     <a href="register.php">Sign up</a>
     <hr>
-    <form method="post" action="product.php">
+    <form method="post" action="regissuccess.php">
         <div class="form-group">
             <label for="username" class="col-md-2 col-form-label text-md-right">User Name</label>
             <div class="col-md-6">

@@ -22,53 +22,35 @@
     <!-- Optional JavaScript; choose one of the two! -->
 
     <img src="asset/notif.png" width="300px" style="opacity: 1.0; position: absolute; left: 10%; top: 30%;" alt="...">
+
     <h1 style="position: absolute;
-    left: 76px;
-    top: 270px;
+    left: 136px;
+    top: 260px;
     font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
+    font-weight: bold;
+    font-size: 25px;
     text-transform: uppercase;
 
-    color: #000000;">PLEASE NOTE</h1>
-    <h1 style="position: absolute;
-    left: 80px;
-    top: 340px;
+    color: #000000;">SUCCES</h1>
+
+    <h1 style="position: absolute; width: 278px;
+    height: 107px;
+    left: 48px;
+    top: 334px;
     font-style: normal;
-    font-weight: normal;
     font-size: 15px;
+    line-height: 20px;
+    text-align: center;
     text-transform: uppercase;
 
-    color: #000000;
+    color: #000000;">
+            your transaction is successful and is being processed. 
+            please wait for your order to arrive at your home !</h1>
 
-    ">DELIVERY TO MALANG</h1>
-    <hr style="position: absolute;
-    width: 165.99px;
-    height: 1.37px;
-    left: 80px;
-    top: 363px;
-
-    border: 1px solid #000000;
-    transform: rotate(0.47deg);">
-
-    <h1 style="
-    position: absolute;
-    width: 166px;
-    height: 30px;
-    left: 80px;
-    top: 392px;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    line-height: 22px;
-    text-transform: uppercase;
-
-    color: #000000;">122276531nfgt</h1>
-
-    <a href="payment.php" style="position: absolute;
+    <a href="getStarted.php" style="position: absolute;
     width: 76px;
     height: 36px;
-    left: 87px;
+    left: 67px;
     top: 494px;
     font-style: normal;
     font-weight: normal;
@@ -76,7 +58,8 @@
     line-height: 24px;
     text-transform: uppercase;
 
-    color: #000000;">Cancel</a>
+    color: #000000;">SIGN OUT</a>
+
 
     <a style="position: absolute;
     width: 159px;
@@ -85,7 +68,7 @@
     top: 470px;
     margin: 10px;
     text-align: center; border-radius: 30px;
-    background: #000000;" href="paymentSuccess.php">
+    background: #000000;" href="product.php">
     </a>
 
     <h1 style="position: absolute;
@@ -100,7 +83,7 @@
     line-height: 24px;
     text-transform: uppercase;
 
-    color: #FFFFFF;">Proceed</h1>
+    color: #FFFFFF;">HOME</h1>
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
